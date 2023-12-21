@@ -1,0 +1,10 @@
+https://www.youtube.com/watch?v=-DXdktU-NNg
+
+PostgreSQL
+port 5432
+root
+root
+
+  D:\Programm\postgresql\PostgreSQL\bin> .\psql -U postgres -p 5432
+  CREATE DATABASE auth;
+  \c auth
